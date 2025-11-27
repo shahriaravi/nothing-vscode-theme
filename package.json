@@ -1,0 +1,67 @@
+{
+  "name": "nothing-os-theme",
+  "displayName": "Nothing OS Theme",
+  "description": "A minimal, high-contrast theme inspired by Nothing OS design language with signature red accents and dot-matrix aesthetics",
+  "version": "1.0.0",
+  "publisher": "xexefe",
+  "author": {
+    "name": "Avi",
+    "url": "https://github.com/shahriaravi"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "nothing",
+    "nothing os",
+    "nothing phone",
+    "minimal",
+    "dark theme",
+    "monochrome",
+    "high contrast",
+    "nothing theme",
+    "glyph",
+    "oled"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xexefe/nothing-os-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/xexefe/nothing-os-theme/issues"
+  },
+  "homepage": "https://github.com/xexefe/nothing-os-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nothing OS Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nothing-dark.json"
+      },
+      {
+        "label": "Nothing OS Light",
+        "uiTheme": "vs",
+        "path": "./themes/nothing-light.json"
+      },
+      {
+        "label": "Nothing OS Dark (Glyph)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nothing-glyph.json"
+      },
+      {
+        "label": "Nothing OS Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nothing-gray.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#14151F",
+    "theme": "dark"
+  },
+  "license": "MIT"
+}
