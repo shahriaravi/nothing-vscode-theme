@@ -11,22 +11,22 @@ This extension comes with **4 distinct variants**:
 ### 1. Nothing OS Dark
 The definitive Nothing experience. Pure black (`#000000`) background, perfect for OLED screens, with high-contrast white text and red accents.
 
-![Nothing OS Dark Screenshot](images/dark.png)
+![Nothing OS Dark Screenshot](https://github.com/shahriaravi/nothing-vscode-theme/raw/main/images/dark.png)
 
 ### 2. Nothing OS Gray
 A softer, slate-gray (`#14151F`) background for those who find pure black too harsh. Balanced contrast with the same signature red highlights.
 
-![Nothing OS Gray Screenshot](images/gray.png)
+![Nothing OS Gray Screenshot](https://github.com/shahriaravi/nothing-vscode-theme/raw/main/images/gray.png)
 
 ### 3. Nothing OS Light
 A clean, paper-white workspace that maintains the Nothing aesthetic in bright environments.
 
-![Nothing OS Light Screenshot](images/light.png)
+![Nothing OS Light Screenshot](https://github.com/shahriaravi/nothing-vscode-theme/raw/main/images/light.png)
 
 ### 4. Nothing OS Dark (Glyph)
 A strict monochromatic version. Pure black and white only, mimicking the Glyph Interface. Color is used *extremely* sparingly, only for critical errors.
 
-![Nothing OS Glyph Screenshot](images/glyph.png)
+![Nothing OS Glyph Screenshot](https://github.com/shahriaravi/nothing-vscode-theme/raw/main/images/glyph.png)
 
 ---
 

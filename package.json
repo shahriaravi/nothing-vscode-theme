@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/xexefe/nothing-os-theme"
+    "url": "https://github.com/shahriaravi/nothing-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/xexefe/nothing-os-theme/issues"
+    "url": "https://github.com/shahriaravi/nothing-vscode-theme/issues"
   },
-  "homepage": "https://github.com/xexefe/nothing-os-theme#readme",
+  "homepage": "https://github.com/shahriaravi/nothing-vscode-theme#readme",
   "contributes": {
     "themes": [
       {
