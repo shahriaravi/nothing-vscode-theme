@@ -1,5 +1,7 @@
 # Nothing OS Theme for VS Code
 
+[![Get it on VS Code Marketplace](https://img.shields.io/badge/Get%20it%20on-VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=xexefe.nothing-os-theme)
+
 **Nothing OS Theme** is a minimal, high-contrast extension inspired by the unique design language of Nothing Technology. It features a monochromatic palette, dot-matrix aesthetics, and the signature **Nothing Red (#D71921)** accents.
 
 Designed to reduce eye strain while keeping important syntax highly visible.
