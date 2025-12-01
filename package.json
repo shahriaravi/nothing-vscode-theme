@@ -56,6 +56,11 @@
         "label": "Nothing OS Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/nothing-gray.json"
+      },
+      {
+        "label": "Nothing OS Special",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nothing-special.json"
       }
     ]
   },
