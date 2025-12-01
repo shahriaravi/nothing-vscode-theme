@@ -8,7 +8,7 @@ Designed to reduce eye strain while keeping important syntax highly visible.
 
 ## 🎨 Theme Variants
 
-This extension comes with **4 distinct variants**:
+This extension comes with **5 distinct variants**:
 
 ### 1. Nothing OS Dark
 The definitive Nothing experience. Pure black (`#000000`) background, perfect for OLED screens, with high-contrast white text and red accents.
@@ -29,6 +29,9 @@ A clean, paper-white workspace that maintains the Nothing aesthetic in bright en
 A strict monochromatic version. Pure black and white only, mimicking the Glyph Interface. Color is used *extremely* sparingly, only for critical errors.
 
 ![Nothing OS Glyph Screenshot](https://github.com/shahriaravi/nothing-vscode-theme/raw/main/images/glyph.png)
+
+### 5. Nothing OS Special
+A special variant with enhanced color coding. Features the signature Nothing black background with vibrant yellow (#ffc703) accents and red highlights for better syntax differentiation.
 
 ---
 
