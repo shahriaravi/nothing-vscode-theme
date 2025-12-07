@@ -33,6 +33,7 @@ A strict monochromatic version. Pure black and white only, mimicking the Glyph I
 ### 5. Nothing OS Special
 A special variant with enhanced color coding. Features the signature Nothing black background with vibrant yellow (#ffc703) accents and red highlights for better syntax differentiation.
 
+![Nothing OS Special Screenshot](https://github.com/shahriaravi/nothing-vscode-theme/raw/main/images/special.png)
 ---
 
 ## ⚙️ Recommended Settings
